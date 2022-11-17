@@ -1,6 +1,6 @@
 Wendel<br>
 Front-End | UI
 
-LinkedIn: @wendeldavel
+Linkedin: @wendeldavel
 
 Reach out at wendeldavel@gmail.com
