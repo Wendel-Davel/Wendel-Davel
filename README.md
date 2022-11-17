@@ -1,6 +1,5 @@
 Wendel<br>
-Front-End | UI Designer
-
+Front-End | UI
 
 LinkedIn: @wendeldavel
 
