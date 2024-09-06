@@ -1,5 +1,4 @@
-Wendel<br>
-Front-End | UI
+Wende
 
 Linkedin: @wendeldavel
 
@@ -19,6 +18,8 @@ Reach out at wendeldavel@gmail.com
 
 <h1 align="center">
   Hey there! I'm Wendel Davel 👋
+  <br>
+  Front-End | UI/UX | Mobile
 </h1>
  <h3 align="center">
   
@@ -26,17 +27,16 @@ Reach out at wendeldavel@gmail.com
 
 <div align="center"
 
-<a href="mailto:wendeldavel@gmail.com><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:wendeldavel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wendel-davel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
 
 ## 💡 About me:
-I am a self-taught young person passionate about software development. As a FrontEnd developer, delivering mobile applications with React Native, I seek to learn daily and stay updated on new advances in technology.
+Developer passionate about creating intuitive and functional digital experiences. With solid experience in UI/UX, React Native and React, I am focused on delivering modern, user-focused interfaces, always looking for innovative solutions that optimize usability. I love working on projects that challenge my creativity and technical skills, contributing to the development of products that make a difference.
 
-- 🤔 *I love helping! If you have any questions, make sure you're connected with me*
-- 📫 *Call me on Linkedin!* <a href="https://www.linkedin.com/in/wendel-davel/">HERE</a>
+
 
 <!--
 > [!NOTE]
