@@ -1,9 +1,3 @@
-Wende
-
-Linkedin: @wendeldavel
-
-Reach out at wendeldavel@gmail.com
-
 
 
 <!--
