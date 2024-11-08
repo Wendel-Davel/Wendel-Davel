@@ -13,7 +13,7 @@
 <h1 align="center">
   Hey there! I'm Wendel Davel 👋
   <br>
-  Front-End | UI/UX | Mobile
+   UI/UX | Dev Mobile
 </h1>
  <h3 align="center">
   
